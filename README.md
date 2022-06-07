@@ -1,7 +1,7 @@
 # taskinator
 
 ## Purpose
-A website
+A website for creating a to do list and following through with your tasks.
 
 ## Built With
 * HTML
