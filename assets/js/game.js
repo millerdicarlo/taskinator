@@ -21,7 +21,7 @@ var taskFormHandler = function (event) {
     return false;
   }
 
-  // reset form fields for next task to be entered
+  // reset form fields for next task
   document.querySelector("input[name='task-name']").value = "";
   document.querySelector("select[name='task-type']").selectedIndex = 0;
 
